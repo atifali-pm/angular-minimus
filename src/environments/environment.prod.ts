@@ -1,3 +1,13 @@
 export const environment = {
-  production: true
+  production: true,
+  appID: '',
+  gKey: '',
+  config: {
+    apiKey: '',
+    authDomain: '',
+    databaseURL: '',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: ''
+  }
 };
