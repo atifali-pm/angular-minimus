@@ -1,7 +1,7 @@
 {
-  "name": "minimus",
+  "name": "angular-minimus",
   "version": "1.0.0",
-  "author": "Hamed Baatour<hamedbaatour@gmail.com>",
+  "author": "",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
